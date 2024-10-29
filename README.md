@@ -51,7 +51,7 @@ if __name__ == '__main__':
 Como Executar o Aplicativo
 Clone o Repositório:
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/bione-dev/Clicker-Idle.git
 Instale as Dependências: Certifique-se de ter o Python e o Kivy instalados. Você pode instalar o Kivy com o seguinte comando:
 
 pip install kivy
